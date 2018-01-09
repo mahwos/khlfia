@@ -1,0 +1,7 @@
+
+html {
+		background-color: transparent;
+		background-image: url("https://www.anime-tooon.com/styles/a-tooon-style/img/bgr2.jpg");
+		background-repeat: repeat;
+		background-attachment: fixed;
+}
