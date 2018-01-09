@@ -2,7 +2,7 @@
 
 html {
 	background-color: #dedede;
-	background-image: url(/img/bg-r.png), url(/img/bg-l.png), url(/img/bg.jpg);
+	background-image: url(https://github.com/mahwos/khlfia/blob/master/bg-r.png), url(https://raw.githubusercontent.com/mahwos/khlfia/master/bg-l.png), url(https://rawgit.com/mahwos/khlfia/master/bg.jpg);
 	margin: 0;
 	background-repeat: no-repeat, no-repeat, repeat-x;
 	background-position: bottom right, bottom left, top center;
