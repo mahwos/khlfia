@@ -29,13 +29,13 @@ html {
 
 }
 #body_background::before {
-	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.3);
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.82);
 	content: "\f110";
 	height: 30px;
 	position: absolute;
 	right: -30px;
 	width: 30px;
-	color: #FFF;
+	    color: #fd0404;
 	font: 18px/29px 'FontAwesome';
 	text-indent: 7px;
 	cursor: pointer;
