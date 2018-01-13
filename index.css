@@ -12,7 +12,7 @@ html {
 #body_background {
 	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.3);
     left: -130px;
-    top: 130px;
+    top: 50px;
     position: fixed;
     width: 130px;
     z-index: 99999;
